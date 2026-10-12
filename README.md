@@ -1,4 +1,4 @@
-# mass_pro_vipergpu
+# Mass Producing MD ligand simulations
 
 Scripts for running many protein–ligand molecular dynamics (MD) simulations at once on a GPU cluster (SLURM, MPCDF Viper-GPU).
 
